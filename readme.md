@@ -1,6 +1,8 @@
 # Sample Scala project with Processing
 
-You will need to download [Processing](http://processing.org) and add `core.jar` to the `lib` folder.
+~~You will need to download [Processing](http://processing.org) and add `core.jar` to the `lib` folder.~~
+
+Processing core has been added to build.sbt
 
 You will also need to have the native library bindings available in your system.
 
